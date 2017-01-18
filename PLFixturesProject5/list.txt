@@ -1,0 +1,6 @@
+<li><a href="http://localhost/PLFixturesProject/footballsc.php?id=1"><img id="manu" src="http://vignette2.wikia.nocookie.net/fifa/images/2/26/Manchester_United_logo.png/revision/latest?cb=20120420192747" alt="ManU"</a></li>
+<li><a href="http://localhost/PLFixturesProject/footballsc.php?id=2"><img id="mancity" src="https://upload.wikimedia.org/wikipedia/tr/thumb/f/f6/Manchester_City.png/150px-Manchester_City.png" alt="ManCity"></a></li>
+<li><a href="http://localhost/PLFixturesProject/footballsc.php?id=3"><img id="chelsea" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1024px-Chelsea_FC.svg.png" alt="chelsea"></a></li>
+<li><a href="http://localhost/PLFixturesProject/footballsc.php?id=4"><img id="arsenal" src="http://vignette4.wikia.nocookie.net/fifa/images/9/92/Arsenal-logo.png/revision/latest?cb=20111224200103" alt="Arsenal"></a></li>
+<li><a href="http://localhost/PLFixturesProject/footballsc.php?id=5"><img id="tot" src="http://soccerlogo.net/uploads/posts/2014-09/1410464191_fc-tottenham-hotspur.png" alt="Tottenham Hotspur"></a></li>
+<li><a href="http://localhost/PLFixturesProject/footballsc.php?id=6"><img id="liv" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/758px-Liverpool_FC.svg.png" alt="Liverpool"></a></li>
