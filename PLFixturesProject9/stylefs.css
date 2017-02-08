@@ -1,0 +1,108 @@
+header img {
+  height: 100px;
+  weight: 100px;
+  float: left;
+  padding: 0;
+  height: 146px;
+}
+header h1 {
+  padding: 50px;
+  border-bottom: 1px solid black;
+  background-color: black;
+}
+header h1 a:link {
+  text-decoration: none;
+  color:white;
+}
+header h1 a:visited {
+  text-decoration: none;
+  color:white;
+}
+header h1 a:hover {
+  text-decoration: none;
+  color:white;
+}
+header h1 a:focus {
+  text-decoration: none;
+  color:white;
+}
+header h1 a:active {
+  text-decoration: none;
+  color:red;
+}
+nav ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: white;
+}
+nav ol li #manu {
+  weight: 66px;
+  height: 66px;
+  padding: 50px;
+  padding-top: 5px;
+  padding-left: 200px;
+  float: left;
+}
+nav ol li #mancity {
+  weight: 60px;
+  height: 60px;
+  padding: 50px;
+  padding-top: 10px;
+  padding-left: 95px;
+}
+nav ol li #chelsea {
+  weight: 60px;
+  height: 60px;
+  padding: 50px;
+  padding-top: 10px;
+  padding-left: 95px;
+}
+nav ol li #arsenal {
+  weight: 60px;
+  height: 60px;
+  padding: 50px;
+  padding-top: 10px;
+  padding-left: 95px;
+}
+nav ol li #tot {
+  weight: 60px;
+  height: 60px;
+  padding: 50px;
+  padding-top: 10px;
+  padding-left: 95px;
+}
+nav ol li #liv {
+  weight: 65px;
+  height: 65px;
+  padding: 50px;
+  padding-top: 10px;
+  padding-left: 95px;
+}
+li {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  border: 0;
+  float: left;
+}
+article li {
+  weight: 350px;
+  height: 281px;
+  padding-top: 120px;
+  padding-left: 20px;
+  list-style: none;
+}
+
+article div {
+  font-size: 20px;
+  padding-left: 200px;
+  padding-bottom: 20px;
+}
+
+article div img {
+  weight: 30px;
+  height: 30px;
+  padding-bottom: 0;
+}
